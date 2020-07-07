@@ -1,0 +1,38 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+
+    body{
+        
+    }
+
+
+
+    body{
+    background-image:url('javascript/200.webp')
+        background-size: cover;
+        height: 100vh;
+        padding:0;
+        margin:0;
+    border: 0rem;
+    color:white; 
+    font-family:'Poppins', sans-serif ;
+    min-height:100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2rem;
+    }
+
+.colorbtn{
+padding: 0;
+background-color:white;
+font-size: 8rem;
+justify-items:center;
+border: whitesmoke;
+color: darkblue;
+}
